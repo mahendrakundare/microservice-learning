@@ -5,10 +5,10 @@ plugins {
 	id 'com.bmuschko.docker-spring-boot-application' version '9.4.0'
 }
 
-//group = 'com.mk'
-group = 'mahendrakundare'
-//version = '0.0.1-SNAPSHOT'
-version = 'latest'
+group = 'com.mk'
+//group = 'mahendrakundare'
+version = '0.0.1-SNAPSHOT'
+//version = 'latest'
 
 java {
 	sourceCompatibility = '17'
