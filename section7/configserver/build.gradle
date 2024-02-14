@@ -18,7 +18,7 @@ repositories {
 
 jib {
 	to {
-		image = 'mahendrakundare/configserver:s6'
+		image = 'mahendrakundare/configserver:s7'
 	}
 }
 
