@@ -27,7 +27,7 @@ repositories {
 
 jib {
 	to {
-		image = 'mahendrakundare/loans:s6'
+		image = 'mahendrakundare/loans:s8'
 	}
 }
 
