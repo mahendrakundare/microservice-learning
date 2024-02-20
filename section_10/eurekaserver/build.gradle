@@ -18,7 +18,7 @@ repositories {
 
 jib {
 	to {
-		image = 'mahendrakundare/eurekaserver:s9'
+		image = 'mahendrakundare/eurekaserver:s10'
 	}
 }
 
