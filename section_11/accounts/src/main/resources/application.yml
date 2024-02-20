@@ -44,6 +44,9 @@ management:
       enabled: true
     livenessstate:
       enabled: true
+  metrics:
+    tags:
+      application: ${spring.application.name}
 
 endpoints:
   shutdown:
