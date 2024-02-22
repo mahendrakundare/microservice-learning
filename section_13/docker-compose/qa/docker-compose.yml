@@ -316,7 +316,7 @@ services:
       service: microservice-eureka-config
 
   message:
-    image: "eazybytes/message:s13"
+    image: "mahendrakundare/message:s13"
     container_name: message-ms
     depends_on:
       rabbit:
