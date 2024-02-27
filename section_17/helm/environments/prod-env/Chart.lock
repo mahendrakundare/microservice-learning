@@ -1,0 +1,24 @@
+dependencies:
+- name: mkbank-common
+  repository: file://../../mkbank-common
+  version: 0.1.0
+- name: configserver
+  repository: file://../../mkbank-services/configserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../mkbank-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../mkbank-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../mkbank-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../mkbank-services/gatewayserver
+  version: 0.1.0
+- name: message
+  repository: file://../../mkbank-services/message
+  version: 0.1.0
+digest: sha256:1483c39ba6c25f7fca133444e2a63456b965b137efe96e6c9019a6baa63b0795
+generated: "2024-02-27T17:32:07.78336+05:30"

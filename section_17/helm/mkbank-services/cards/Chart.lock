@@ -1,0 +1,6 @@
+dependencies:
+- name: mkbank-common
+  repository: file://../../mkbank-common
+  version: 0.1.0
+digest: sha256:cb41af4ca625ab56cbaef3016da3119dee7c484caf3ce872041bce1890b40432
+generated: "2024-02-23T20:21:07.793179+05:30"
